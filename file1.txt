@@ -1,1 +1,1 @@
-file 1 change 1 by local
+file 1 change 1 by local then remote
